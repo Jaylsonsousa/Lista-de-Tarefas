@@ -40,6 +40,4 @@ O sistema implementa:
 4. Push para a Branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-## ⚖️ Licença
 
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
